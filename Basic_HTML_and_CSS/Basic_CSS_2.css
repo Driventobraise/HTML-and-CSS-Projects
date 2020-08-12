@@ -1,0 +1,10 @@
+p {
+	color: yellow;
+	background: purple;
+	font-style: bold;
+	text-align: left;
+}
+
+h2 {
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
